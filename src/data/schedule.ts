@@ -56,7 +56,7 @@ export const scheduleItems: ScheduleItem[] = [
     slug: "prize-distribution",
     label: "Prize Distribution",
     start: 16 * 60,
-    end: 18 * 60,
+    end: 17 * 60,
     lane: "general",
   },
 ];
