@@ -20,7 +20,11 @@ export const site = {
     college: "Dayananda Sagar College of Engineering",
     aegis: "DSCE Innovation Council",
   },
+<<<<<<< HEAD
   prizePool: "₹21,000",
+=======
+  prizePool: "₹20,000",
+>>>>>>> origin/main
   expectedFootfall: "150+",
   url: "https://anokhya.site",
   instagram: "https://instagram.com/_anokhya",
